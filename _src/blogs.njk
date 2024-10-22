@@ -6,13 +6,13 @@
 <div class="container mx-auto max-w-prose max-w-screen-lg px-8 leading-10text-xl">
     <h1 class="text-center text-6xl py-8 font-bold">Blog</h1>
     {% for post in collections.posts | reverse %}
-    <a href="{{ post.url }}" class="my-4 py-4 no-underline block bloglink">
+    <a href="{{ post.url }}" class="my-4 py-4 px-2 no-underline block bloglink">
         <h2 class="text-2xl font-normal">{{ post.data.title }}</h2>
         <p>
             <time>{{ post.date | postDate }}</time>
         </p>
     </a>    
-    *
+    &hearts;
     {% endfor %}
 </div>
 {% endblock %}
