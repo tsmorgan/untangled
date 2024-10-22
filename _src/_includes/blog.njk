@@ -1,0 +1,15 @@
+{% extends "base.njk" %}
+
+{% block content %}
+<main class="mx-8 md:mx-16 blogpost">
+    <h2 class="mx-auto leading-snug max-w-prose text-center text-6xl py-8 font-bold">{{ title }}</h2>
+
+    <p class="font-normal mx-auto"><span class="bg-white/50 p-2">&nbsp;{{ date | postDate}}&nbsp;</span></p>
+
+    <div class="pt-8 mb-16 text-xl text-left blog container mx-auto max-w-prose max-w-screen-md leading-relaxed">
+        {% block blog %}
+            {{ content | safe }}
+        {% endblock %}
+    </div>
+</main>
+{% endblock %}
