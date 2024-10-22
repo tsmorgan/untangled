@@ -1,5 +1,8 @@
 {% extends "base.njk" %}
 
+{% set previousPost = collections.posts | getPreviousCollectionItem %}
+{% set nextPost = collections.posts | getNextCollectionItem %}
+
 {% block content %}
 <main class="mx-8 md:mx-16 blogpost">
     <h2 class="mx-auto leading-snug max-w-prose text-center text-6xl py-8 font-bold">{{ title }}</h2>
@@ -11,5 +14,24 @@
             {{ content | safe }}
         {% endblock %}
     </div>
+
+    <div class="flex flex-wrap">
+        <div class="flex-1 box-border p-8 text-left shrink grow basis-auto ">
+            {% if previousPost %}
+            <span class="">&larr;</span>
+            <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a>
+            {% endif %}
+        </div>
+        <div class="flex-1 box-border p-8 text-right shrink grow basis-auto">            
+            {% if nextPost %}
+            <a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a> 
+            <span class="">&rarr;</span>
+            {% endif %}
+        </div>
+    </div>
+    
+
+    
+    
 </main>
 {% endblock %}
