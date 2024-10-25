@@ -8,6 +8,8 @@ export default function (eleventyConfig) {
 
     eleventyConfig.addPassthroughCopy("_src/images");
 
+    eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
+
     eleventyConfig.addFilter("postDate", (dateObj) => {
         return DateTime.fromJSDate(dateObj).toFormat("d LLLL yyyy");
     });

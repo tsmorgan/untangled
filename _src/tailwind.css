@@ -2,6 +2,10 @@ html {
     font-size: 19px;
 }
 
+p,h1,h2,h3,h4 {
+    margin-bottom:1rem;
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -13,10 +17,6 @@ a {
 a.bloglink:hover {
     background-color:rgba(255, 255, 255, 0.5);
     border-radius: 0.25rem;
-}
-
-p,h1,h2,h3,h4 {
-    margin-bottom:1rem;
 }
 
 .blog h1 {
