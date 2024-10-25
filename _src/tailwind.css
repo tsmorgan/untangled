@@ -2,13 +2,13 @@ html {
     font-size: 19px;
 }
 
-p,h1,h2,h3,h4 {
-    margin-bottom:1rem;
-}
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+p,h1,h2,h3,h4 {
+    margin-bottom:1rem;
+}
 
 a {
     text-decoration: underline;
