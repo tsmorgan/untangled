@@ -1,6 +1,7 @@
 ---
 title: "Video - Mindfulness and Stress"
 date: 2023-11-15
+image: "stress.jpg"
 ---
 In this short video I share some information about stress itself, my personal experience of it and how I've learnt ways to be more resilient and manage stress in a better way through mindfulness.
 

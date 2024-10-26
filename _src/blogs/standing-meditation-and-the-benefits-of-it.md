@@ -1,6 +1,7 @@
 ---
 title: "Standing meditation and the benefits of it"
 date: 2023-11-15
+image: "standing.jpg"
 ---
 Find out how mindfulness can help you to be less reactive and more grounded in this video, something which can bring huge benefits to your life and to the lives of people around you.   
 

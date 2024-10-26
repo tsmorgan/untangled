@@ -1,6 +1,7 @@
 ---
 title: "Guided mindful walking meditation"
 date: 2023-12-20
+image: "walking.jpg"
 ---
 In this short video I guide you through a basic mindful walking meditation. 
 

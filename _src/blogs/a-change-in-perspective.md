@@ -1,6 +1,7 @@
 ---
 title: "A change in perspective"
 date: 2024-03-15
+image: "perspective.jpg"
 ---
 😪 Last week I’d had a particularly bad night’s sleep and the following day I was struggling to work through the things I’d planned.  
   

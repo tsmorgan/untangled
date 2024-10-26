@@ -1,6 +1,7 @@
 ---
 title: "World Meditation Day"
 date: 2024-05-21
+image: "wmd.jpg"
 ---
 Today is World Meditation Day, a day to raise awareness about meditating and the benefits it brings for most people. In support of this, I've recorded a short breath meditation for you.  
   

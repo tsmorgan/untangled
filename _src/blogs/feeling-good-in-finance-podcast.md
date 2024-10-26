@@ -1,6 +1,7 @@
 ---
 title: "Feeling Good in Finance podcast"
 date: 2023-09-20
+image: "feeling-good.jpg"
 ---
 I was recently a guest on the ‘Feeling Good in Finance’ podcast with career coach Katie Pope.
 

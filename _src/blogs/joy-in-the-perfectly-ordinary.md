@@ -1,6 +1,7 @@
 ---
 title: "Joy in the perfectly ordinary"
 date: 2023-08-11
+image: "joy.jpg"
 ---
 A few days ago, I read an article in Psychologies Magazine encouraging readers to notice the joy in the perfectly ordinary! 
 

@@ -1,8 +1,9 @@
 ---
 title: "Patience"
 date: 2024-02-11
+image: "patience.jpg"
 ---
-![](/images/blog/Daffodils.jpg) 
+![](/images/blog/{{image}}) 
 
 Yesterday I went on a mindfulness meditation retreat which included a silent mindful walk in nature. I felt immersed in the surroundings and noticed my own response to them. 
 

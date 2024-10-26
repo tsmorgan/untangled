@@ -1,6 +1,7 @@
 ---
 title: "The little things are big!"
 date: 2024-04-01
+image: "littlethings.jpg"
 ---
 April is Stress Awareness Month and the theme for 2024 is “Little By Little”, recognising that sometimes the best way of managing stress is to do something small, with small consistent daily actions cumulating to contribute to overall wellbeing and reducing stress. 
 

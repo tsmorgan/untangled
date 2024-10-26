@@ -1,6 +1,7 @@
 ---
 title: "Noticing thoughts without being lost in them"
 date: 2023-11-15
+image: "noticing.jpg"
 ---
 👉 Your life is whatever you pay attention to, and **you can choose what you pay attention to**, but it doesn’t seem that way when you live life on autopilot, lost in your thoughts!  
   

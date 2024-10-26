@@ -1,6 +1,7 @@
 ---
 title: "New year, new course - starting February 2023"
 date: 2023-01-01
+image: "newyear.jpg"
 ---
 ![](/images/blog/sunet+in+guiseley.jpg) 
 

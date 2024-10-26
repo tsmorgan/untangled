@@ -1,6 +1,7 @@
 ---
 title: "Mindfulness in daily life"
 date: 2023-04-14
+image: "daily.jpg"
 ---
 In this short video I share how mindfulness has helps me to be more present for my life through noticing the sounds around me. I took this on my dog walk this morning and there were so many sounds to notice! 
 

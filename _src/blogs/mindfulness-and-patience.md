@@ -1,6 +1,7 @@
 ---
 title: "Video - Mindfulness and patience"
 date: 2023-10-18
+image: "video-patience.jpg  "
 ---
 In this video I share how mindfulness has helped me to be more patient and present in life instead of always living for the future, a future that never arrives.
 

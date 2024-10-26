@@ -6,13 +6,16 @@
 <div class="container mx-auto max-w-prose max-w-screen-lg px-8 leading-10text-xl">
     <h1 class="text-center text-6xl py-8 font-bold">Blog</h1>
     {% for post in collections.posts | reverse %}
-    <a href="{{ post.url }}" class="my-4 py-4 px-2 no-underline block bloglink">
-        <h2 class="text-2xl font-normal">{{ post.data.title }}</h2>
-        <p>
-            <time>{{ post.date | postDate }}</time>
-        </p>
+    <a href="{{ post.url }}" class="flex flex-col md:flex-row my-4 py-4 px-2 no-underline block bloglink text-left">
+        <div class="flex-1">
+        <div class="h-48 max-w-xs aspect-w-1 aspect-h-1 bg-center bg-cover bg-no-repeat md:mx-8 mb-2" style="background-image: url('/images/blog/{{ post.data.image }}');"></div>
+    </div>
+    <div class="flex-1">
+        <h2 class="text-2xl font-normal">{{ post.data.title }}</h2>        
+        <p> <time>{{ post.date | postDate }}</time> </p>
+    </div>
     </a>    
-    &hearts;
+    <!-- &hearts; -->
     {% endfor %}
 </div>
 {% endblock %}

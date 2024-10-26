@@ -1,6 +1,7 @@
 ---
 title: "Let’s talk toilet breaks!"
 date: 2024-05-23
+image: "toilet.jpg"
 ---
 Not exactly the toilet bit 🙈 but more the washing our hands after bit.
 

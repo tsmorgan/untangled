@@ -1,6 +1,7 @@
 ---
 title: "Walking in nature"
 date: 2023-12-18
+image: "walking-nature.jpg"
 ---
 Last week was quite momentous for various reasons and coupled with that I didn't feel 100%. 
 

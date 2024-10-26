@@ -1,6 +1,7 @@
 ---
 title: "Our minds are made to think"
 date: 2023-01-14
+image: "think.jpg"
 ---
 ![](/images/blog/IMG-20221214-WA0001.jpg) 
 

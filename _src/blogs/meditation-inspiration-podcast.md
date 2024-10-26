@@ -1,6 +1,7 @@
 ---
 title: "Meditation Inspiration - Podcast"
 date: 2024-02-02
+image: "inspiration.jpg"
 ---
 I recently had the pleasure of being a guest on Katie Austin’s "Meditation Inspiration" podcast.
 

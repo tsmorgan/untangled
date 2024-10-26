@@ -1,6 +1,7 @@
 ---
 title: "Reflections from my silent (not silent) retreat"
 date: 2023-04-06
+image: "reflections.jpg"
 ---
 I’ve just returned from a 4 day silent retreat with the Mindfulness Network and their incredible teachers [Rebecca Crane ](https://training.mindfulness-network.org/our-trainers/rebecca-crane/)and [Jaya Rudgard](https://www.jayarudgard.co.uk). It’s the second time I’ve been on a silent retreat and the experience was different, despite it being at the same venue with the same teachers, but it was just as powerful!
 

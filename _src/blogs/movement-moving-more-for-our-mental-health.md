@@ -1,6 +1,7 @@
 ---
 title: "Movement: Moving more for our mental health"
 date: 2024-05-15
+image: "movement.jpg"
 ---
 When I found out that the theme for [Mental Health Awareness week](https://www.mentalhealth.org.uk/our-work/public-engagement/mental-health-awareness-week) was 'Movement: Moving more for our mental health' I was pretty excited!
 

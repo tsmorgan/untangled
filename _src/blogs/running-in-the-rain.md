@@ -1,6 +1,7 @@
 ---
 title: "Running in the rain!"
 date: 2023-09-20
+image: "running.jpg"
 ---
 Yesterday I went for a run in the pouring rain! 
 

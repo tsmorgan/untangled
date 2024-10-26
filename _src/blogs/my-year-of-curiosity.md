@@ -1,8 +1,9 @@
 ---
 title: "My Year of Curiosity"
 date: 2024-01-03
+image: "curiosity.jpg"
 ---
-![](/images/blog/3+Jan+Word+of+the+Year.jpg) 
+![](/images/blog/{{image}}) 
 
 2024 is My Year of Curiosity!
 

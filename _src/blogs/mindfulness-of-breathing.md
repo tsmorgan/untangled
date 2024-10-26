@@ -1,6 +1,7 @@
 ---
 title: "Mindfulness of breathing"
 date: 2024-01-03
+image: "breathing.jpg"
 ---
 It’s the New Year and often it’s a bit of a shock to the system when we have to dive back into work after a break, and it can be hard to keep our boundaries and to stick to our good intentions that we'd set for ourselves!
 

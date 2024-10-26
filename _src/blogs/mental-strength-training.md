@@ -1,6 +1,7 @@
 ---
 title: "Mental strength training"
 date: 2024-03-21
+image: "mentalhealth.jpg"
 ---
 I wouldn’t expect to be physically strong and healthy if I didn’t exercise and mental health is no different.   
   
