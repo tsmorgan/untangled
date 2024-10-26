@@ -10,6 +10,10 @@ p,h1,h2,h3,h4 {
     margin-bottom:1rem;
 }
 
+strong {
+    font-weight: 700;
+}
+
 a {
     text-decoration: underline;
 }

@@ -907,8 +907,8 @@ video {
   line-height: 2.5rem;
 }
 
-.leading-8 {
-  line-height: 2rem;
+.leading-4 {
+  line-height: 1rem;
 }
 
 .leading-normal {
@@ -939,6 +939,10 @@ video {
 
 p,h1,h2,h3,h4 {
   margin-bottom:1rem;
+}
+
+strong {
+  font-weight: 700;
 }
 
 a {

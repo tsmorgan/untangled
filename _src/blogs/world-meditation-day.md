@@ -13,3 +13,5 @@ Although this video is focused just on the breath, that's not for everyone. One 
 ✨ [Alternative breath practice](/blogs/mindfulness-of-breathing)  
   
 My next in-person [8-Week Mindfulness-Based Stress Reduction](/courses) course starts on the 7th June in Guiseley, Leeds. [Contact me](/contact) if you're interested in taking part.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VR7SM8HCDu8?si=vkx-cATIm01qVcxh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

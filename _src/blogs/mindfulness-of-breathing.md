@@ -14,3 +14,5 @@ But mindfulness doesn't need to be another thing to do. You're already breathing
 
   
 Noticing the breath can be supportive for many people. It can create a sense of calmness and of feeling grounded, which can be especially helpful when you feel stressed or overwhelmed. It can help you to then move forward in your day with more focus and resilience, and be more productive too!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6J5T8-VDYx4?si=ho8GRnJwH_sLXkrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
