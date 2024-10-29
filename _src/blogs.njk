@@ -8,7 +8,7 @@
     {% for post in collections.posts | reverse %}
     <a href="{{ post.url }}" class="flex flex-col md:flex-row my-4 no-underline block bloglink text-left bg-white/25 p-8">
         <div class="flex-1">
-        <div class="h-48 w-full mb-4 md:mb-0 aspect-square bg-center bg-cover bg-no-repeat" style="background-image: url('/images/blog/{{ post.data.image }}');"></div>
+        <div class="lazy h-48 w-full mb-4 md:mb-0 aspect-square bg-center bg-cover bg-no-repeat" data-bg="/images/blog/{{ post.data.image }}"></div>
     </div>
     <div class="flex-1 pl-4">
         <h2 class="text-2xl font-normal">{{ post.data.title }}</h2>        
